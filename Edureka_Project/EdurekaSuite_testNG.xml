@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Edureka" parallel="classes" thread-count="6">
+	<test name="SearchBlog">
+		<classes>
+			<class name="com.Edureka.TestCases.ExploreBlogsOnEdureka"></class>
+		</classes>
+	</test>
+	<test name="profileUpdate">
+		<classes>
+			<class name="com.Edureka.TestCases.UpdateProfile"></class>
+		</classes>
+	</test>
+	<test name="EnrolledCourse">
+		<classes>
+			<class name="com.Edureka.TestCases.ExploretheCoursesRegistered"></class>
+		</classes>
+	</test>
+
+</suite> <!-- Edureka -->

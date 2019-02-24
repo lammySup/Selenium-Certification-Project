@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[About to begin executing Suite Default suite<br>]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing Test Default test<br>]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : ExploreBlogsOnEdureka.beforeMethod<br>]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : ExploreBlogsOnEdureka.beforeMethod<br>]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : ExploreBlogsOnEdureka.SearchBlog<br>]]>
+    </line>
+    <line>
+      <![CDATA[SignIn Action is successfully performed
+]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : ExploreBlogsOnEdureka.SearchBlog<br>]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in com.Edureka.TestCases.ExploreBlogsOnEdureka
+]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass
+]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : ExploreBlogsOnEdureka.afterMethod<br>]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : ExploreBlogsOnEdureka.afterMethod<br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73238" started-at="2019-02-12T19:03:24Z" finished-at="2019-02-12T19:04:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73238" started-at="2019-02-12T19:03:24Z" finished-at="2019-02-12T19:04:37Z">
+      <class name="com.Edureka.TestCases.ExploreBlogsOnEdureka">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.Edureka.TestCases.ExploreBlogsOnEdureka@47c62251]" name="beforeMethod" is-config="true" duration-ms="20188" started-at="2019-02-13T00:33:24Z" finished-at="2019-02-13T00:33:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : ExploreBlogsOnEdureka.beforeMethod<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="SearchBlog()[pri:0, instance:com.Edureka.TestCases.ExploreBlogsOnEdureka@47c62251]" name="SearchBlog" duration-ms="49864" started-at="2019-02-13T00:33:44Z" finished-at="2019-02-13T00:34:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[SignIn Action is successfully performed
+]]>
+            </line>
+            <line>
+              <![CDATA[Completed executing following method : ExploreBlogsOnEdureka.SearchBlog<br>]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in com.Edureka.TestCases.ExploreBlogsOnEdureka
+]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass
+]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : ExploreBlogsOnEdureka.afterMethod<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchBlog -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.Edureka.TestCases.ExploreBlogsOnEdureka@47c62251]" name="afterMethod" is-config="true" duration-ms="3148" started-at="2019-02-13T00:34:34Z" finished-at="2019-02-13T00:34:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : ExploreBlogsOnEdureka.afterMethod<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.Edureka.TestCases.ExploreBlogsOnEdureka -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
